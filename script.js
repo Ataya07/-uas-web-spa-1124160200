@@ -39,10 +39,9 @@
         let appliedPromoCode = '';
 
         const promoCodes = {
-            'HEMAT10': { discount: 10, type: 'percentage', description: 'Diskon 10%'},
-            'SUPERHEMAT': { discount: 20, type: 'percentage', description: 'Diskon 20%'},
-            'POTONGAN30': { discount: 30000, type: 'fixed', description: 'Diskon Rp. 30.0000'},
-            'NEWUSER': { discount: 15, type: 'percentage', description: 'Diskon 15% untuk pengguna baru'},
+            'RENANG HEMAT': { discount: 10, type: 'percentage', description: 'Diskon 10%'},
+            'KELUARGA': { discount: 20, type: 'percentage', description: 'Diskon 20%'},
+            'STUDENT': { discount: 30000, type: 'fixed', description: 'Diskon Rp. 30.0000'},
         }
         ;
 
